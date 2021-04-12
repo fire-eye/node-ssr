@@ -11,6 +11,10 @@
       * 代码调试
       * 项目测试
     3. koa核心:中间件
+      * 中间件
+      * 路由
+      * 视图
+      * 静态服务器
 
   > 项目源码 git clone https://github.com/fire-eye/node-ssr.git
   
